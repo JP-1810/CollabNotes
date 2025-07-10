@@ -46,7 +46,39 @@ Hosted on **Replit**, this application requires no installation. It works instan
 
 This logic makes the app behave like Google Docs' collaborative editing but in a simplified way.
    
-## 📁 File Structure
+##  File Structure
 
 - index.js : server-side code  (Express + Socket.IO)
-- 
+- package.json : Node dependencies
+- html/index.html : Main UI Layout
+- html/style.css : Custom styling
+- html/script.js : Client-side logic for sockets
+- html/background.png : Background image
+
+##  Use Cases
+
+-  Team brainstorming sessions
+-  Student collaboration on notes or homework
+-  Teachers writing shared notes during online classes
+-  Interview or test collaboration demo
+
+##  How to Use
+
+1. Visit the live link above.
+2. Enter any room name and your username.
+3. Share that same room name with others to collaborate together.
+4. Begin typing! You’ll see real-time syncing across all users in the room.
+  
+## Future Enhancements
+
+While the current version of the app serves its primary purpose of enabling real-time collaborative note-taking, there are several features that can be added to improve functionality and user experience:
+
+- Add a user presence indicator to show who else is online in the room.
+- Add support for saving notes to local storage or a database.
+- Allow users to export notes as a downloadable text or PDF file.
+- Display notifications when users join or leave a room.
+- Add real-time cursor sharing to improve collaborative visibility.
+- Enhance the text editor to support rich-text formatting (bold, italic, headings, etc.).
+- Add a signin/login page so that if user want to use it for personal use only they can do so without any disturbances
+
+These enhancements would make the app even more practical and appealing for professional, academic, and personal use cases.
