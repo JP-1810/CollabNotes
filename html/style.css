@@ -1,0 +1,36 @@
+body {
+  background: url("background.png") no-repeat center center fixed;
+  background-size: cover;
+  font-family: 'Inter';
+  color: #94b6ff;
+  margin: 0;
+  padding: 40px 20px;
+  min-height: 100vh;
+}
+
+h1 {
+  margin-bottom: 20px;
+
+  
+ 
+}
+
+.second{
+  color: #e6f0ff;
+  background-color:#94b6ff;
+}
+#editor {
+  width: 90%;
+  height: 500px;
+  padding: 20px;
+  font-size: 15px;
+  font-family: 'Inter', sans-serif;
+  color: #0447d7;              
+  background-color: #e6f0ff;    
+  border: none;                
+  border-radius: 20px;         
+  outline: none;               
+  box-shadow: 0 0 20px rgba(4, 71, 215, 0.1); 
+  resize: vertical;           
+}
+
