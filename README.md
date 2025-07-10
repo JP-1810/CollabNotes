@@ -1,5 +1,19 @@
 # CollabNotes 
 
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : JAGRUTI POTHAL
+
+*INTERN ID* : CT06DG1185
+
+*DOMAIN* : SOFTWARE DEVELOPMENT 
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH KUMAR
+
+#  REAL-TIME COLLABORATION TOOL
+
 ## A real - time Collaborative Note App
 
 This project is a real-time collaborative note-taking web application that allows multiple users to join the same room and write or edit notes simultaneously. The app was built using core web technologies such as **Node.js**, **Express.js**, **Socket.IO**, **HTML**, **CSS**, and **JavaScript**, and styled with a soft blue color scheme to offer a clean and modern user experience. This tool can be particularly useful in scenarios like live group discussions, team brainstorming sessions, online study groups, or collaborative interviews.
