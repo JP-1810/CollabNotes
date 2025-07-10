@@ -82,3 +82,8 @@ While the current version of the app serves its primary purpose of enabling real
 - Add a signin/login page so that if user want to use it for personal use only they can do so without any disturbances
 
 These enhancements would make the app even more practical and appealing for professional, academic, and personal use cases.
+
+
+## output
+
+<img width="1904" height="1027" alt="Image" src="https://github.com/user-attachments/assets/c2da7ac5-7d99-43a7-9561-d34a7fef8642" />
