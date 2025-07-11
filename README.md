@@ -20,7 +20,7 @@ This project is a real-time collaborative note-taking web application that allow
 
 ## Live Deployment
 
-### https://f0855996-f8e6-40d0-a514-814c1e98f4d9-00-1ctp67cervl64.sisko.replit.dev/ 
+### https://collabnotes-3xgd.onrender.com
 
 Hosted on **Replit**, this application requires no installation. It works instantly in the browser and can be used across multiple devices.
 
